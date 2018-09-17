@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="untitled7" />
+    <orderEntry type="module" module-name="domains" />
+    <orderEntry type="module" module-name="phpmailer" />
+    <orderEntry type="module" module-name="untitled5" />
+    <orderEntry type="module" module-name="homework05122017" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="untitled3" />
+  </component>
+</module>
